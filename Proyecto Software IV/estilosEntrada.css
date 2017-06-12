@@ -1,0 +1,42 @@
+﻿body {
+    font-family:Arial;
+    background-image:url(imagenes/fondo_principal.jpg);
+}
+
+#contenedor {
+    width: 60%;
+    height: 500px;
+    margin: auto;
+    margin-top: 85px;
+    border: 1px solid blue;
+    text-align: center;
+    background-image: url("imagenes/pelota-de-futbol-9716.jpg");
+    background-size: 100% 100%;
+}
+
+#contenedor > h2{
+    margin-bottom:40px;
+}
+
+
+span{
+    
+    text-align:left;
+    margin-bottom:30px;
+    font-weight:bold;
+
+    
+   
+}
+
+
+input{
+    border:1px solid black;
+    padding:4px;
+}
+
+#Button1{
+    padding:15px;
+    border-radius:10px;
+    font-weight:bold;
+}

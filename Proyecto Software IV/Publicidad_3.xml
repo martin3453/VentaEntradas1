@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>https://media.giphy.com/media/iPLIJLYVGKctW/giphy.gif</ImageUrl>
+    <NavigateUrl>https://www.coca-cola.com.pe/es/home/</NavigateUrl>
+    <Impressions>100</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>https://media.giphy.com/media/Wmg1tVjfrdPiM/source.gif</ImageUrl>
+    <NavigateUrl>http://www.gatorade.com.co/app/website/#gatorade/0</NavigateUrl>
+    <Impressions>100</Impressions>
+  </Ad>
+</Advertisements>

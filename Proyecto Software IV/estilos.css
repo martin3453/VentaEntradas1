@@ -1,0 +1,110 @@
+﻿body *  {
+    
+}
+
+#contenedor{
+    padding:10px;
+    background-image:url('imagenes/fondo_contenedor.jpg')
+}
+
+#cabecera{
+    text-align:center;
+    font-family:Arial;
+    color: #D9BA5D;
+    background-color:darkred;
+    border:1px solid darkred;
+
+}
+
+
+#cabecera > h2{
+    width:35%;
+    margin:20px auto;
+    border-radius:30px;
+    font-family:Oswald;
+
+}
+
+#publicidad_1{
+    float:left;
+    width:20%;
+    min-height:320px;
+    border-radius:20px;
+
+}
+
+
+
+#publicidad_2 {
+    float: right;
+    width: 20%;
+    min-height: 320px;
+    border-radius: 20px;
+}
+
+
+#login {
+    margin-left: 32%;
+    margin-right: 22%;
+    width: 35%;
+    border: 2px solid black; margin-top: 150px;
+    font-family: Arial;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    background: url('http://e.rpp-noticias.io/medium/2017/03/24/484648_371479.jpg')
+}
+
+#login > h2{
+    text-align:center;
+    font-size:30px;
+    font-family:Arial;
+}
+#sostiene{
+    clear:both;
+}
+
+footer{
+    text-align:center;
+    padding: 20px;
+    font-family:Arial;
+    color: white;
+    background-color:black;
+
+
+}
+
+#AdRotator1, #AdRotator2 {
+    width: 100%;
+    border-radius:20px;
+}
+
+#AdRotator1 > img{
+    height:650px;
+    width:100%;
+    border-radius:20px;
+}
+
+    #AdRotator2 > img {
+        height: 650px;
+        width: 100%;
+        border-radius: 20px;
+    }
+
+.formulario{
+    margin-left:16px;
+    margin-bottom:10px;
+}
+#Label1, #Label2{
+    width:10px;
+    font-family:Arial;
+    font-weight:bold;
+    font-size:18px;
+}
+#Button1{
+    margin-left:180px;
+    border-radius:15px;
+    padding:10px;
+    font-family:Arial;
+    font-size:18px;
+}
